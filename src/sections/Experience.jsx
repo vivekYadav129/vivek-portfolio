@@ -10,7 +10,7 @@ const Experience = () => {
   const experienceData = [
     {
       ...portfolioData.experience[0],
-      duration: "May 2024 – Present",
+      duration: "Sep 2026 - Oct 2026",
       location: "India (Remote/Onsite)",
       tags: ["React.js", "Java", "REST APIs", "Node.js", "MongoDB", "Full Stack"],
       highlights: [
@@ -21,7 +21,7 @@ const Experience = () => {
     },
     {
       ...portfolioData.experience[1],
-      duration: "Jan 2024 – Apr 2024",
+      duration: "March 2026 – May 2026",
       location: "India",
       tags: ["Java", "Spring Boot", "REST APIs", "MySQL", "JWT", "Microservices"],
       highlights: [
@@ -32,7 +32,7 @@ const Experience = () => {
     },
     {
       ...portfolioData.experience[2],
-      duration: "Jun 2023 – Jul 2023",
+      duration: "Jun 2025 – Jul 2025",
       location: "Varanasi, UP",
       tags: ["Industrial Engineering", "Operations", "Systems Engineering", "Automation"],
       highlights: [
